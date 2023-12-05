@@ -33,8 +33,6 @@ public class matrizdistancia {
         c1 = ler.nextInt();
         System.out.println("Informe as cidades das quais você quer saber a distancia: ");
         c2 = ler.nextInt();
-        System.out.println(mat[c1 - 1][c2 - 1]);
-        
+        System.out.println(mat[c1 - 1][c2 - 1]);   
     }
-
 }
